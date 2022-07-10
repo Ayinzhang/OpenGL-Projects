@@ -1,0 +1,43 @@
+﻿  工程文件.cpp
+C:\Users\23\Desktop\工程文件\工程文件\Camera.h(27,1): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\23\Desktop\工程文件\工程文件\SpotLight.h(6,73): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\23\Desktop\工程文件\工程文件\SpotLight.h(6,93): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(60,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(60,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(61,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(61,38): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(62,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(62,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(136,32): warning C4305: “参数”: 从“double”到“GLclampf”截断
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(170,32): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(174,32): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(178,32): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(182,32): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(186,32): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(190,32): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\23\Desktop\工程文件\工程文件\工程文件.cpp(122,17): warning C4101: “EBO”: 未引用的局部变量
+  工程文件.vcxproj -> C:\Users\23\Desktop\工程文件\Debug\工程文件.exe
