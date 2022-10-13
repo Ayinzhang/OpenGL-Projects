@@ -9,3 +9,5 @@
 *QE控制上下*
 
 *鼠标控制方向*
+
+![image-20221013225433830](C:\Users\23\Desktop\OpenGL-point-selection\image-20221013225433830.png)
