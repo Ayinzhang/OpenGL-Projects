@@ -10,4 +10,4 @@
 
 *鼠标控制方向*
 
-![image-20221013225433830](C:\Users\23\Desktop\OpenGL-point-selection\image-20221013225433830.png)
+![image](https://github.com/1242857339/OpenGL-point-selection/blob/main/image-20221013225433830.png)
