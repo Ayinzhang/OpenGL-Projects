@@ -10,4 +10,6 @@
 
 *鼠标控制方向*
 
-![image](https://github.com/1242857339/OpenGL-point-selection/blob/main/image-20221013225433830.png)
+<div align=center>
+<img src="https://github.com/1242857339/OpenGL-point-selection/blob/main/show.png" width = "50%" height = "50%" />
+</div> 
