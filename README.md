@@ -1,14 +1,16 @@
 # OpenGL-point-selection
 
-**OpenGL入门工程，实现Phong模型，第一人称控制器以及点拾取，在此基础上可以做体积检测的延伸（已用AABB包围盒思想加以实现），但那样要保持模型静止，不够有趣，故不展示此项。**
+[中文版](README_ZH.md)
 
-*WS控制前后*
+**Basic OpenGL project, implementing Phong model, first person controller, and point selection. Based on this, an extension of volume detection can be made (implemented using AABB bounding box concept), but it requires keeping the model still, which is not interesting enough, so this item is not displayed.**
 
-*AD控制左右*
+*WS controls forward and back*
 
-*QE控制上下*
+*AD controls left and right*
 
-*鼠标控制方向*
+*QE controls up and down*
+
+*Mouse controls view direction*
 
 <div align=center>
 <img src="https://github.com/1242857339/OpenGL-point-selection/blob/main/show.png" width = "50%" height = "50%" />
